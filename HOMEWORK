@@ -1,13 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoja De Vida</title>
+</head>
+<body>
+    
 <img src="c:\Users\Usuario\Downloads\Nueva carpeta (2)\WhatsApp Image 2024-02-06 at 10.13.52 AM.jpeg" width="350px" height="350px" alt="foto">
-<h1>JUAN DAVID PINEDA HENAO</h1>
+	<h1>JUAN DAVID PINEDA HENAO</h1>
    
 <h2>PERFIL PROFESIONAL</h2>
-<p>Soy una persona inteligente, con mucha dedicacion, meticulosidad y unas aptitudes fuertes con un desempeño eficiente</p>
 
-<ul> <h1>EXPERIENCIA LABORAL</h1>
-<p>
+	<p>Soy una persona inteligente, con mucha dedicacion, meticulosidad y unas aptitudes fuertes con un desempeño eficiente</p>
+
+<ul> 
+    <h1>EXPERIENCIA LABORAL</h1>
+    
     <!--experiencia laboral-->
-<ol> 
+    
 <li>carpinteria metalica</li>
 <li>ventas</li>
 <li>turismo</li>
